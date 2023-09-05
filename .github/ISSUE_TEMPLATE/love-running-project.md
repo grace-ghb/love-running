@@ -1,6 +1,6 @@
 ---
 name: Love Running Project
-about: This is our default user story template
+about: Publish a Poll
 title: ''
 labels: ''
 assignees: ''
