@@ -1,7 +1,7 @@
 ---
 name: Love Running Project
 about: Publish a Poll
-title: ''
+title: Love Running Project
 labels: ''
 assignees: ''
 
